@@ -1,0 +1,13 @@
+form {
+  width: 50%;
+  margin: auto;
+  background-color: #b1ddea;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+input {
+  display: block;
+  border: 1px solid black;
+  border-radius: 5px;
+}

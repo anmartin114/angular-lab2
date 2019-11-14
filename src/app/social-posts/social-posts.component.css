@@ -1,0 +1,26 @@
+h1 {
+  color: rgb(3, 169, 244);
+  font-family: "Homemade Apple";
+  text-align: center;
+}
+
+button {
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid black;
+  padding: 10px;
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+
+section {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+  background-color: white;
+}
+
+

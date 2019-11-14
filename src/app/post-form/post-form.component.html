@@ -1,0 +1,11 @@
+<form (ngSubmit)="submitPost()">
+  <label for="title"
+    >Title<input name="title" [(ngModel)]="newPost.title"
+  /></label>
+
+  <label for="thought"
+    >Thought<input [(ngModel)]="newPost.thought" name="thought"
+  /></label>
+
+  <button>Add Post</button>
+</form>
